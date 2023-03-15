@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\kylae\Desktop\Программирование\Line_Spisok\Line_Spisok\Line_Spisok.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\kylae\Desktop\Программирование\Line_Spisok\Line_Spisok\Line_Spisok.h(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Line_Spisok.vcxproj -> C:\Users\kylae\Desktop\Программирование\Line_Spisok\Debug\Line_Spisok.exe
